@@ -71,8 +71,8 @@ Maintained by the team behind [StackLedge](https://www.stackledge.com).
 |---|---|---|---|---|
 | [Peerlist](https://peerlist.io) | 52 | Dofollow | Free | Instant listing; doubles as a personal profile |
 | [MicroLaunch](https://microlaunch.net) | 42 | Dofollow | Free | Daily launches, products get scored |
-| [StackLedge](https://www.stackledge.com) | 34 | Nofollow | Free | Human-reviewed; automation, AI, SaaS and n8n |
-| [ToolVerified](https://www.toolverified.com) | 31 | Dofollow | Free | Human-reviewed general tool directory |
+| [StackLedge](https://www.stackledge.com) | 41 | Nofollow | Freemium | Human-reviewed; automation, AI, SaaS and n8n |
+| [ToolVerified](https://www.toolverified.com) | 37 | Dofollow | Free | Human-reviewed general tool directory |
 
 ## Nofollow but still worth it
 
