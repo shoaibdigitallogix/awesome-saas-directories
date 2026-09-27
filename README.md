@@ -64,6 +64,7 @@ Maintained by the team behind [StackLedge](https://www.stackledge.com).
 | [Toolify](https://www.toolify.ai) | 70 | Verify | Freemium | 2-4 week free queue; roughly $100 to express |
 | [Future Tools](https://www.futuretools.io) | 69 | Dofollow | Free | Hand-curated, low acceptance rate |
 | [Futurepedia](https://www.futurepedia.io) | 65 | Verify | Freemium | Largest business-focused AI directory; paid slots optional |
+| [SaaSCity](https://saascity.io) | 64 | Dofollow | Freemium | Free listing, human review within ~24h |
 
 ## Worth a look — DR under 60
 
