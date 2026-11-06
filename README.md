@@ -74,6 +74,7 @@ Maintained by the team behind [StackLedge](https://www.stackledge.com).
 | [StackLedge](https://www.stackledge.com) | 48 | Dofollow | Freemium | Human-reviewed; automation, AI, SaaS and n8n |
 | [ToolVerified](https://www.toolverified.com) | 47 | Dofollow | Free | Human-reviewed general tool directory |
 | [FeaturedLane](https://www.featuredlane.com) | 37 | Dofollow | Free | Human-reviewed general Ai, SaaS and tool directory |
+| [Awesome Tools](https://awesome.tools) | 31 | Dofollow | Freemium | Free with reciprocal backlink (DR 20+) or $49 one-time Featured Launch; public JSON agent API at /SKILL.md |
 
 ## Nofollow but still worth it
 
