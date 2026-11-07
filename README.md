@@ -87,6 +87,7 @@ Links here pass no authority. They earn their place through traffic, brand recog
 | [Crunchbase](https://www.crunchbase.com) | 91 | Nofollow | Free | Entity signal — helps models recognise your brand |
 | [Wellfound](https://wellfound.com) | 89 | Nofollow | Free | Company profile rather than product listing |
 | [Indie Hackers](https://www.indiehackers.com) | — | Nofollow | Free | Share the build story, not just the product |
+| [TooliGuide](https://tooliguide.com) | — | Nofollow | Free | Instagram-tools niche (following trackers / story viewers); free editorial submit at /submit-tool/; same team as iFollowTracker & iStoryTracker (disclosed). Checked 2026-11-08 |
 
 ## The submission asset pack
 
