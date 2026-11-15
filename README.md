@@ -73,6 +73,7 @@ Maintained by the team behind [StackLedge](https://www.stackledge.com).
 | [MicroLaunch](https://microlaunch.net) | 42 | Dofollow | Free | Daily launches, products get scored |
 | [StackLedge](https://www.stackledge.com) | 48 | Dofollow | Freemium | Human-reviewed; automation, AI, SaaS and n8n |
 | [ToolVerified](https://www.toolverified.com) | 47 | Dofollow | Free | Human-reviewed general tool directory |
+| [Awesome Indie](https://awesomeindie.com) | 41 | Dofollow | Freemium | Daily launches ranked by community upvotes; free launch, paid upgrades optional |
 | [FeaturedLane](https://www.featuredlane.com) | 37 | Dofollow | Free | Human-reviewed general Ai, SaaS and tool directory |
 
 ## Nofollow but still worth it
